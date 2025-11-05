@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samir Bist
 
 -  **BE Computer Student** in National Academy of Science and Technology (NAST), Dhangadhi Nepal. 
--  Currently exploring **web development** and how technology can be used creatively to solve real-world problems.  
+ 
 
 ---
 
