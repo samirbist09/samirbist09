@@ -36,12 +36,7 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 
 ## 📊 **GitHub Analytics (Dark Premium)**  
 <div align="center">
-
-<!-- NEW WORKING STATS API -->
-<img height="180" src="https://github-readme-stats-git-master-orgs-readme-stats-team.vercel.app/api?username=samirbist09&show_icons=true&theme=tokyonight" />
-
-<img height="180" src="https://github-readme-stats-git-master-orgs-readme-stats-team.vercel.app/api/top-langs/?username=samirbist09&layout=compact&theme=tokyonight" />
-
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirbist09&show_icons=true&theme=radical)
 </div>
 
 ---
