@@ -15,12 +15,12 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 **Web Development, Learning and Exploring new Technologies**.
 
 -  Studying at **NAST, Dhangadhi**
--  Interested in: Web Apps,Clean Design and User Experience
+-  Interested in: Web Development,Clean Design ,AI
 -  Projects: **Quizzer App**, Portfolio
 -  Email: *bistsameer31@gmail.com*
 ---
 
-## 🛠️ **Skills & Tools**
+##  **Skills & Tools**
 
 ###  Languages & Frameworks
 <p align="left">
@@ -34,7 +34,7 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 
 ---
 
-## 📊 **GitHub Analytics (Dark Premium)**  
+##  **GitHub Analytics (Dark Premium)**  
 <div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samirbist09&theme=tokyonight)
 
