@@ -36,7 +36,8 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 
 ## 📊 **GitHub Analytics (Dark Premium)**  
 <div align="center">
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirbist09&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samirbist09&theme=tokyonight)
+
 </div>
 
 ---
