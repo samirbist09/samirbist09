@@ -34,14 +34,6 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 
 ---
 
-##  **GitHub Analytics (Dark Premium)**  
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=samirbist09&theme=tokyonight)
-
-</div>
-
----
-
 ##  **Developer Trophies**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samirbist09&theme=onestar&no-frame=true&row=1&column=7" />
