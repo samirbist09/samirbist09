@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <div align="center">
 
-# 🌌 **Sameer Bist**
-### *BE Computer Engineering Student • Web Developer • Newbie*
+#  **Sameer Bist**
+### *BE Computer Engineering Student  • Newbie*
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Engineering+Student;Tech+Explorer;Learning+New+Things" />
 
@@ -24,12 +24,12 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 
 ###  Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
 </p>
 
 ###  Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,mysql,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,windows" />
 </p>
 
 ---
@@ -55,17 +55,7 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 
 ---
 
-##  **Featured Projects**
 
-### 🔹 **Quizzer – Online Quiz Platform**
-- Multi-level quiz engine (Easy/Medium/Hard)
-- Admin dashboard + scoring system  
-- **Tech:** Flask, MySQL, JS, CSS
-
-### 🔹 **Portfolio Website**
-- Clean, modern, responsive  
-- **Tech:** HTML, CSS, JS
----
 
 ## 🌐 **Connect With Me**
 <p>
@@ -76,6 +66,4 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 </p>
 
 ---
-<div align="center">
-⭐ **If you like my profile, consider starring my repositories!**
-</div>
+
