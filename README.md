@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-#  **Sameer Bist**
+#  **Samir Bist**
 ### *BE Computer Engineering Student  • Newbie*
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Engineering+Student;Tech+Explorer;Learning+New+Things" />
