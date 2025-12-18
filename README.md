@@ -34,12 +34,6 @@ I'm a passionate **BE Computer Engineering student** from Nepal focusing on
 
 ---
 
-##  **Developer Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirbist09&theme=onestar&no-frame=true&row=1&column=7" />
-</div>
----
-
 ## 📈 **GitHub Activity Graph**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirbist09&theme=react-dark&hide_border=true" />
