@@ -11,12 +11,12 @@
 ---
 
 ##  **About Me**
-I'm a passionate **BE Computer Engineering student** from Nepal focusing on  
-**Web Development, Learning and Exploring new Technologies**.
+I'm a passionate **BE Computer Engineering student** from 
+National Academy of Science and Technology (NAST) Dhangadhi, Nepal  
+**Learning and Exploring new Technologies**,**Just a Beginner.**
 
 -  Studying at **NAST, Dhangadhi**
--  Interested in: Web Development,Clean Design ,AI
--  Projects: **Quizzer App**, Portfolio
+-  Projects: **Quizzer App**, **Portfolio**,**To Do app** 
 -  Email: *bistsameer31@gmail.com*
 ---
 
