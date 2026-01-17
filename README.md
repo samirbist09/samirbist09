@@ -2,9 +2,9 @@
 <div align="center">
 
 #  **Samir Bist**
-### *BE Computer Engineering Student  • Newbie*
+### *BE Computer Engineering Student *
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00E8FF&size=25&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Learning+New+Things;Newbie" />
 
 </div>
 
