@@ -45,7 +45,6 @@ National Academy of Science and Technology (NAST) Dhangadhi, Nepal
 
 ## 🌐 **Connect With Me**
 <p>
-  <a href="https://www.facebook.com/samirbist09"><img height="40" src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://www.instagram.com/sleepyy_18"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://twitter.com/YOUR_LINK"><img height="40" src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://linkedin.com/in/samirbist"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
