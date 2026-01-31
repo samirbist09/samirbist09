@@ -16,7 +16,7 @@ National Academy of Science and Technology (NAST) Dhangadhi, Nepal
 **Learning and Exploring new Technologies**,**Just a Beginner.**
 
 -  Studying at **NAST, Dhangadhi**
--  Projects: **Quizzer App**, **Portfolio**,**To Do app** 
+-  Projects: **Quizzer App**, **Portfolio**,**Taskflow pro app** 
 -  Email: *bistsameer31@gmail.com*
 ---
 
